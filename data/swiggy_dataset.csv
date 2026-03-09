@@ -1,0 +1,410 @@
+restaurant,dish,price,rating,veg
+fortunes.json,Smoky Chicken Puff,80.0,4.7,
+fortunes.json,Biryani Gosht ( 1kg ) ,1429.0,5.0,
+fortunes.json,Kolkata Style Murgh Biryani ( 1kg ),1319.0,3.5,
+fortunes.json,Biryani Murg ( 1kg ) ,1319.0,,
+fortunes.json,Choice Of Paneer,425.0,4.2,1.0
+fortunes.json,Kosha Khashir Mangsho (1/2kg),879.0,4.2,
+fortunes.json,Biryani Murgh (1/2kg ),849.0,4.9,
+fortunes.json,Mutton Biryani Gosht ( 1/2 Kg ),989.0,5.0,
+fortunes.json,Dal-E-Fortune Signature,375.0,4.8,1.0
+fortunes.json,Kolkata Style Murgh Biryani (1/2 Kg ),769.0,,
+fortunes.json,Mutton Roganjosh,525.0,4.1,
+fortunes.json,Bengali Mishti Pulao (1/2kg ),659.0,5.0,1.0
+fortunes.json,Murgh,450.0,4.7,
+fortunes.json,Jhinga Malai Curry (Prawn),625.0,5.0,
+fortunes.json,Laal Maans Signature,525.0,5.0,
+fortunes.json,Choice Of Kofta,425.0,3.5,1.0
+fortunes.json,Chilli Chicken (350Gms ),425.0,3.7,
+fortunes.json,Macchi Lababdar,500.0,2.8,
+fortunes.json,Mushroom Mutter,425.0,4.6,1.0
+fortunes.json,Methi Palak Aur Papadi Subzi Signature,375.0,4.5,1.0
+fortunes.json,Yellow Dal Fry,300.0,,1.0
+fortunes.json,Kadai-Ka-Karishma,375.0,4.6,1.0
+fortunes.json,Aloo,300.0,5.0,1.0
+fortunes.json,Bengali Mishti Pulao (1kg),989.0,,1.0
+fortunes.json,Chicken & Egg Fried Rice With Chicken Manchurian,250.0,4.7,
+fortunes.json,Chicken & Egg Noodles With Chilli Chicken,250.0,4.3,
+fortunes.json,Non- Veg Fried Rice (1k)g,1319.0,5.0,
+fortunes.json,Veg Fried Rice ( 1kg ) ,989.0,,1.0
+fortunes.json,Veg Hakka Noodles  With Chilli Paneer,225.0,4.6,1.0
+fortunes.json,Chilli Garlic Fried Rice With Veg Manchurian,225.0,4.7,1.0
+fortunes.json,Kaffir Lime Infused Grilled Prawn,650.0,4.2,
+fortunes.json,Veg Fried Rice ( 1/2kg ) ,659.0,4.7,1.0
+fortunes.json,Prawns In Chilli Basil Sauce,650.0,3.5,
+fortunes.json,Lamb Rendang Curry,550.0,4.6,
+fortunes.json,Fish In Hot Garlic Sauce,500.0,4.4,
+fortunes.json,Manchurian,375.0,,1.0
+fortunes.json,Thai Chicken Curry Signature,425.0,3.7,
+fortunes.json,Chicken,425.0,4.3,
+fortunes.json,Chongquing Tofu,400.0,4.9,1.0
+fortunes.json,Tangy Chilli Chicken (350Gms ),425.0,,
+fortunes.json,Thai Green Vegetable Curry Signature,375.0,4.1,1.0
+fortunes.json,Kung Pao Vegetables Signature,375.0,3.5,1.0
+fortunes.json,Gosht Biryani,425.0,4.2,
+fortunes.json,Murgh Biryani,400.0,4.2,
+fortunes.json,Subz Biryani,350.0,3.5,1.0
+fortunes.json,MaggieS Farm,550.0,5.0,
+fortunes.json,Grilled Fish Signature,500.0,4.0,
+fortunes.json,Pasta,425.0,4.7,1.0
+fortunes.json,Rosemary Grilled Chicken,550.0,4.4,
+fortunes.json,Baked Vegetables,425.0,,1.0
+fortunes.json,Vegetable Lasagne,425.0,4.6,1.0
+fortunes.json,Roomali Roti,60.0,4.6,1.0
+fortunes.json,Naan,60.0,4.7,1.0
+fortunes.json,Masala Kulcha,90.0,5.0,1.0
+fortunes.json,Tandoori Roti,60.0,4.7,1.0
+fortunes.json,Parantha,60.0,3.4,1.0
+fortunes.json,Rasmalai,165.0,4.0,1.0
+fortunes.json,Chennar Payesh,165.0,4.4,1.0
+fortunes.json,Bharwan Gulab Jamun,165.0,3.2,1.0
+fortunes.json,Kesari Phirni,165.0,4.3,1.0
+fortunes.json,Rossogolla Locavore,150.0,2.4,1.0
+fortunes.json,Caramel Custard,250.0,3.7,
+fortunes.json,Dual Choco Pastry,90.0,4.7,1.0
+fortunes.json,White Choco Flakes Pastry,90.0,4.5,1.0
+fortunes.json,Walnut Brownie,90.0,4.5,1.0
+fortunes.json,Pastry,90.0,4.4,1.0
+fortunes.json,Cheese Cakes (Mango/Strawberry),85.0,4.6,1.0
+fortunes.json,Vegetable Spring Rolls,300.0,4.5,1.0
+fortunes.json,Keema Pao,450.0,4.3,
+fortunes.json,Chicken Spring Rolls,350.0,5.0,
+fortunes.json,Pao Bhaji,275.0,4.7,1.0
+fortunes.json,Chick Peas Salt & Pepper,300.0,,1.0
+fortunes.json,Fish Fingers,450.0,4.3,
+fortunes.json,Gosht Box Meal,350.0,3.7,
+fortunes.json,Paneer Combo Meal,300.0,4.7,1.0
+fortunes.json,Murgh Box Meal,325.0,4.8,
+fortunes.json,Egg Box Meal,275.0,,
+fortunes.json,Subz Box Meal,275.0,4.1,1.0
+fortunes.json,Smoky Chicken Puff,80.0,4.7,
+fortunes.json,Chilli Chicken Hot and Spicy,425.0,,
+fortunes.json,Almond Choco Chips  (6 Nos),90.0,5.0,1.0
+fortunes.json,Tangy Paneer Tikka Puff Signature,80.0,5.0,1.0
+fortunes.json,Smocky Chicken Puff,80.0,,
+fortunes.json,Raisin And Cashew Cookies (6 Nos),90.0,5.0,1.0
+fortunes.json,Veg Puff,80.0,4.7,1.0
+fortunes.json,Mixed Fruit Almond Cake  Slice -02 Slices,90.0,4.5,1.0
+fortunes.json,Banana And Walnut Cake Slice  - 02 Slices,90.0,4.4,1.0
+fortunes.json,Cup Cake 1 No,60.0,4.6,
+fortunes.json,Chinese Chicken Box,350.0,4.8,
+fortunes.json,Thai Chicken Box,350.0,4.0,
+fortunes.json,Chinese Veg Box,275.0,4.8,1.0
+fortunes.json,Chicken Box Meal,325.0,4.3,
+fortunes.json,Cottage Cheese Box Meal,350.0,4.9,1.0
+fortunes.json,Croissant,75.0,4.5,1.0
+fortunes.json,Doughnut,85.0,3.7,1.0
+fortunes.json,Muffins,85.0,,
+fortunes.json,Chocolate Mud Pie,85.0,3.9,
+fortunes.json,Murgh Tikka,475.0,3.9,
+fortunes.json,Sartaj-E-Tandoor,500.0,,
+fortunes.json,Murgh Malai Tikka,475.0,5.0,
+fortunes.json,Sigri-Ka-Macchi,550.0,5.0,
+fortunes.json,Subz Seekh Gilafi,400.0,3.4,1.0
+fortunes.json,Aloo Nazakat,400.0,3.5,1.0
+fortunes.json,Makhmali Paneer Tikka,425.0,4.5,1.0
+fortunes.json,Nonveg Sandwich,250.0,,
+fortunes.json,Poori Bhaji,250.0,,1.0
+fortunes.json,Idli Sambar Chutney,250.0,,1.0
+fortunes.json,Medu Vada,250.0,,1.0
+fortunes.json,Uttapam,250.0,,1.0
+lemon_grass.json,Chicken Jeera Kebab ,488.0,,
+lemon_grass.json,Ajwain Fish Tikka,519.0,,
+lemon_grass.json,Ajwain Fish Tikka ,519.0,,
+lemon_grass.json,Paneer,389.0,,1.0
+lemon_grass.json,Mushroom,423.0,,1.0
+lemon_grass.json,Veg Darbari  ,358.0,,1.0
+lemon_grass.json,Paneer Tikka Lababdar  ,454.0,,1.0
+lemon_grass.json,Fish ,519.0,,
+lemon_grass.json,Prawn,618.0,,
+lemon_grass.json,Chicken Butter Masala ,488.0,,
+lemon_grass.json,Chicken Butter Masala     ,488.0,,
+lemon_grass.json,Murgh Tikka Lababdar    ,488.0,,
+lemon_grass.json,Tawa Fish Masala,618.0,,
+lemon_grass.json,Tawa Fish Masala     ,618.0,,
+lemon_grass.json,Chicken,311.0,4.1,
+lemon_grass.json,Veg Pulao,259.0,,1.0
+lemon_grass.json,Veg Pulao  ,259.0,,1.0
+lemon_grass.json,Chicken Biriyani,389.0,4.4,
+lemon_grass.json,Chicken  ,311.0,4.1,
+lemon_grass.json,Dal Makhani,351.0,,1.0
+lemon_grass.json,Sweet Corn Soup Veg,189.0,,1.0
+lemon_grass.json,Sweet Corn Soup Non Veg,228.0,,
+lemon_grass.json,Hot & Sour Soup Veg,189.0,,1.0
+lemon_grass.json,Hot & Sour Soup Non Veg,228.0,,
+lemon_grass.json,Manchow Soup Veg ,189.0,,1.0
+lemon_grass.json,Manchow Soup Non Veg,228.0,,
+lemon_grass.json,Spicy Lemon Garlic Soup Veg,189.0,,1.0
+lemon_grass.json,Spicy Lemon Garlic Soup Non Veg,228.0,5.0,
+lemon_grass.json,Pan Fried Mushroom  ,389.0,,1.0
+lemon_grass.json,Crispy Chilli Baby Corn,389.0,,1.0
+lemon_grass.json,Chilli Potato,324.0,,1.0
+lemon_grass.json,Paneer Manchurian,389.0,,1.0
+lemon_grass.json,Tangra Style Chilli Paneer,389.0,,1.0
+lemon_grass.json,Paneer Tikka Rang Birangi,389.0,,1.0
+lemon_grass.json,Kebab Platter Veg,1104.0,,1.0
+lemon_grass.json,Drums Of Heaven ,454.0,4.8,
+lemon_grass.json,Crispy Chicken With Chilli Mustard Dip,454.0,,
+lemon_grass.json,Jiang Chilli Chicken,454.0,,
+lemon_grass.json,Tangra Style Chicken Manchurian,454.0,,
+lemon_grass.json,Pan Fried Chili Fish,488.0,,
+lemon_grass.json,Crispy Fish With Chilli  Mustard Dip,488.0,,
+lemon_grass.json,Pan Fried Chili Prawn,584.0,,
+lemon_grass.json,Crispy Prawns  Chilli Mustard Sauce,584.0,,
+lemon_grass.json,Lobster In Szechuan Sauce,1689.0,,
+lemon_grass.json,Lobster In Pepper Garlic Sauce,1689.0,,
+lemon_grass.json,Stir Fried Chilli Lamb,779.0,,1.0
+lemon_grass.json,Chicken Jeera Kebab,488.0,4.9,
+lemon_grass.json,Chicken Jeera Kebab ,488.0,,
+lemon_grass.json,Murgh Malai Tikka ,488.0,,
+lemon_grass.json,Murgh Malai Tikka    ,488.0,,
+lemon_grass.json,Ajwain Fish Tikka,519.0,,
+lemon_grass.json,Ajwain Fish Tikka ,519.0,,
+lemon_grass.json,Tandoori Pomfret,779.0,,
+lemon_grass.json,Tandoori Pomfret ,779.0,,
+lemon_grass.json,Kebab Platter Non Veg,1299.0,,
+lemon_grass.json,Kebab Platter Non Veg  ,1299.0,,
+lemon_grass.json,Paneer,389.0,,1.0
+lemon_grass.json,Veg Coin,423.0,,1.0
+lemon_grass.json,Mushroom,423.0,,1.0
+lemon_grass.json,Veg Darbari,358.0,5.0,1.0
+lemon_grass.json,Veg Darbari  ,358.0,,1.0
+lemon_grass.json,Paneer Tikka Lababdar,454.0,4.9,1.0
+lemon_grass.json,Paneer Tikka Lababdar  ,454.0,,1.0
+lemon_grass.json,Paneer Tikka Masala,454.0,,1.0
+lemon_grass.json,Paneer Tikka Masala  ,454.0,,1.0
+lemon_grass.json,Kadai Paneer Tikka Masala,454.0,,1.0
+lemon_grass.json,Kadai Paneer Tikka Masala  ,454.0,,1.0
+lemon_grass.json,Aloo Jeera ,358.0,,1.0
+lemon_grass.json,Aloo Jeera   ,358.0,,1.0
+lemon_grass.json,Chicken ,488.0,4.1,
+lemon_grass.json,Fish ,519.0,,
+lemon_grass.json,Prawn,618.0,,
+lemon_grass.json,Kadai Chicken ,488.0,2.1,
+lemon_grass.json,Murgh Ka Bharta ,488.0,3.9,
+lemon_grass.json,Murgh Ka Bharta     ,488.0,,
+lemon_grass.json,Chicken Butter Masala ,488.0,,
+lemon_grass.json,Chicken Butter Masala     ,488.0,,
+lemon_grass.json,Murgh Tikka Lababdar,488.0,2.2,
+lemon_grass.json,Murgh Tikka Lababdar    ,488.0,,
+lemon_grass.json,Mutton Rogan Josh ,649.0,,
+lemon_grass.json,Mutton Kosha ,649.0,,
+lemon_grass.json,Tawa Fish Masala,618.0,,
+lemon_grass.json,Tawa Fish Masala     ,618.0,,
+lemon_grass.json,Veg,259.0,,1.0
+lemon_grass.json,Egg,280.0,,
+lemon_grass.json,Chicken,311.0,4.1,
+lemon_grass.json,Mix,358.0,,1.0
+lemon_grass.json,Veg Pulao,259.0,,1.0
+lemon_grass.json,Veg Pulao  ,259.0,,1.0
+lemon_grass.json,Jeera Rice ,259.0,3.6,1.0
+lemon_grass.json,Jeera Rice   ,259.0,,1.0
+lemon_grass.json,Steam Rice ,194.0,,1.0
+lemon_grass.json,Steam Rice   ,194.0,,1.0
+lemon_grass.json,Chicken Biriyani,389.0,4.4,
+lemon_grass.json,Veg ,259.0,3.9,1.0
+lemon_grass.json,Egg ,280.0,,
+lemon_grass.json,Chicken  ,311.0,4.1,
+lemon_grass.json,Green Salad ,98.0,,1.0
+lemon_grass.json,Green Salad    ,98.0,,1.0
+lemon_grass.json,Onion Salad ,98.0,,1.0
+lemon_grass.json,Onion Salad  ,98.0,,1.0
+lemon_grass.json,Mix Raita ,129.0,,1.0
+lemon_grass.json,Mix Raita   ,129.0,,1.0
+lemon_grass.json,Yellow Dal Tadka,273.0,,1.0
+lemon_grass.json,Yellow Dal Tadka  ,273.0,,1.0
+lemon_grass.json,Dal Makhani,351.0,,1.0
+lemon_grass.json,Dal Makhani  ,351.0,,1.0
+lemon_grass.json,Tandoori Roti,64.0,,1.0
+lemon_grass.json,Tandoori Roti  ,64.0,,1.0
+lemon_grass.json,Naan,98.0,4.5,1.0
+lemon_grass.json,Naan ,98.0,4.5,1.0
+lemon_grass.json,Masala Kulcha,129.0,,1.0
+lemon_grass.json,Masala Kulcha  ,129.0,,1.0
+lemon_grass.json,Darsaan With Ice Cream,194.0,,1.0
+lemon_grass.json,Darsaan With Ice Cream  ,194.0,,1.0
+lemon_grass.json,Hawaiian Sundae,259.0,,1.0
+lemon_grass.json,Hawaiian Sundae   ,259.0,,1.0
+lemon_grass.json,Hot Brownie ,324.0,,1.0
+lemon_grass.json,Hot Brownie    ,324.0,,1.0
+parkland.json,Chilli Chicken Dry [8 Pieces],220.0,4.3,
+parkland.json,Naan,35.0,4.5,1.0
+parkland.json,Kulcha,50.0,4.5,1.0
+parkland.json,Butter Naan,40.0,4.7,1.0
+parkland.json,Cucumber Salad,60.0,,1.0
+parkland.json,Green Salad,70.0,4.9,1.0
+parkland.json,Onion Salad,50.0,3.8,1.0
+parkland.json,American Corn Salt And Pepper,200.0,,1.0
+parkland.json,Chilli Mushroom Dry [8 Pieces],230.0,4.8,1.0
+parkland.json,Chilli Paneer Dry [8 Pieces],220.0,,1.0
+parkland.json,Crispy Chilli Baby Corn,0.0,4.7,1.0
+parkland.json,French Fries,140.0,4.5,1.0
+parkland.json,Mushroom Salt And Pepper,220.0,4.2,1.0
+parkland.json,Onion Pakoda [6 Pieces],100.0,4.5,1.0
+parkland.json,Paneer 65 [6 Pieces],210.0,5.0,1.0
+parkland.json,Paneer Pakoda [6 Pieces],180.0,,1.0
+parkland.json,Veg Pakoda [6 Pieces],150.0,,1.0
+parkland.json,Chicken 65 [6 Pieces],220.0,4.1,
+parkland.json,Chicken Hariyali Kebab [6 Pieces],270.0,4.1,
+parkland.json,Chicken Oil Fry,220.0,4.0,
+parkland.json,Chicken Pakoda [6 Pieces],200.0,4.3,
+parkland.json,Chicken Reshmi Kebab [6 Pieces],320.0,4.0,
+parkland.json,Chicken Salt And Pepper,210.0,3.8,
+parkland.json,Chicken Tikka Kebab [6 Pieces],270.0,4.3,
+parkland.json,Chilli Chicken Dry [8 Pieces],220.0,4.3,
+parkland.json,Chilli Prawn Dry [8 Pieces],380.0,,
+parkland.json,Crispy Chicken,0.0,4.1,
+parkland.json,Egg Pakoda [8 Pieces],140.0,3.7,
+parkland.json,Fish Finger,0.0,4.0,
+parkland.json,Fish Golden Katla [2 Pieces],180.0,3.8,
+parkland.json,Fish Pakoda [6 Pieces],200.0,4.6,
+parkland.json,Fish [6 Pieces],350.0,,
+parkland.json,Honey Chicken,220.0,4.2,
+parkland.json,Honey Fish Crispy Chilli,0.0,4.6,
+parkland.json,Tandoori Chicken,0.0,4.0,
+parkland.json,Aloo Gobi Masala,180.0,4.2,1.0
+parkland.json,Aloo Posto,280.0,4.5,1.0
+parkland.json,Butter Dal Fry,140.0,4.2,1.0
+parkland.json,Chicken Butter Masala,280.0,4.8,
+parkland.json,Chicken Curry [4 Pieces],230.0,4.3,
+parkland.json,Chicken Dopiaza [4 Pieces],240.0,4.5,
+parkland.json,Chicken Kadhai [4 Pieces],220.0,4.5,
+parkland.json,Chicken Kaju Curry [4 Pieces],260.0,4.7,
+parkland.json,Chicken Kasa [4 Pieces],257.0,4.6,
+parkland.json,Chicken Manchurian Gravy Dry [8 Pieces],250.0,4.2,
+parkland.json,Chicken Masala,240.0,4.5,
+parkland.json,Chilli Chicken Gravy,257.0,4.4,
+parkland.json,Chilli Fish Gravy,0.0,4.2,
+parkland.json,Chilli Mushroom Gravy Dry [8 Pieces],230.0,,1.0
+parkland.json,Chilli Paneer Gravy [8 Pieces],220.0,4.6,1.0
+parkland.json,Chilli Prawn Gravy [8 Pieces],380.0,,
+parkland.json,Dal Fry,0.0,4.4,1.0
+parkland.json,Dum Aloo,130.0,4.6,1.0
+parkland.json,Egg Curry,100.0,4.4,
+parkland.json,Egg Dopiaza,140.0,4.2,
+parkland.json,Egg Masala,110.0,4.8,
+parkland.json,Fish Curry Katla,190.0,4.6,
+parkland.json,Garlic Chicken [8 Pieces],257.0,4.1,
+parkland.json,Hundi Chicken,320.0,,
+parkland.json,Jeera Aloo,120.0,4.5,1.0
+parkland.json,Kashmiri Aloo Dum,200.0,4.7,1.0
+parkland.json,Malai Kofta,300.0,,1.0
+parkland.json,Matar Paneer,220.0,4.6,1.0
+parkland.json,Mixed Veg,0.0,4.4,1.0
+parkland.json,Mushroom Butter Masala,250.0,4.6,1.0
+parkland.json,Mushroom Masala,230.0,4.2,1.0
+parkland.json,Mutton Curry,360.0,,
+parkland.json,Mutton Dopiaza,390.0,,
+parkland.json,Mutton Kasa,380.0,,
+parkland.json,Mutton Masala,380.0,,
+parkland.json,Mutton Roghanjosh,400.0,,
+parkland.json,Paneer Bharta,240.0,4.7,1.0
+parkland.json,Paneer Butter Masala,240.0,4.6,1.0
+parkland.json,Paneer Dopiaza,0.0,,1.0
+parkland.json,Paneer Manchurian Gravy Dry [8 Pieces],220.0,,1.0
+parkland.json,Paneer Pasinda,240.0,,1.0
+parkland.json,Paneer Tikka Masala,280.0,3.8,1.0
+parkland.json,Plain Dal,80.0,4.9,1.0
+parkland.json,Prawn Butter Masala,300.0,,
+parkland.json,Prawn Dopiaza,300.0,,
+parkland.json,Prawn Malai Curry,350.0,,
+parkland.json,Shahi Paneer,300.0,4.1,1.0
+parkland.json,Veg Jalfrezi,220.0,2.9,1.0
+parkland.json,Veg Machurian Gravy Dry [8 Pieces],227.0,4.3,1.0
+parkland.json,Naan,35.0,4.5,1.0
+parkland.json,Kulcha,50.0,4.5,1.0
+parkland.json,Butter Naan,40.0,4.7,1.0
+parkland.json,Butter Tandoori Roti,35.0,4.4,1.0
+parkland.json,Butter Tawa Roti,15.0,4.4,1.0
+parkland.json,Cheese Naan,50.0,4.7,1.0
+parkland.json,Garlic Naan,60.0,4.3,1.0
+parkland.json,Masala Kulcha,70.0,4.4,1.0
+parkland.json,Tandoori Roti,30.0,4.4,1.0
+parkland.json,Tawa Roti,10.0,4.4,1.0
+parkland.json,Chicken Dum Biryani,328.0,3.7,
+parkland.json,Egg Biryani,255.0,4.2,
+parkland.json,Veg Biryani,228.0,4.4,1.0
+parkland.json,Mutton Biryani,375.0,3.0,
+parkland.json,Chicken Fried Rice,197.0,4.3,
+parkland.json,Chilli Chicken Gravy (spicy),257.0,,
+parkland.json,Handi Chicken,320.0,,
+parkland.json,Veg Fried Rice,182.0,4.4,1.0
+parkland.json,Egg Fried Rice,185.0,4.3,
+parkland.json,Green Peas Pulao,180.0,3.6,1.0
+parkland.json,Jeera Rice,120.0,,1.0
+parkland.json,Kashmiri Pulao,220.0,4.9,1.0
+parkland.json,Mixed Fried Rice,257.0,4.4,
+parkland.json,Prawn Fried Rice,230.0,4.8,
+parkland.json,Schezwan Chicken Fried Rice,210.0,,
+parkland.json,Schezwan Mixed Fried Rice,240.0,,
+parkland.json,Schezwan Veg Fried Rice,160.0,,1.0
+parkland.json,Steamed Rice,80.0,4.6,1.0
+parkland.json,Veg Pulao,227.0,3.8,1.0
+parkland.json,Chicken Hakka Noodles,0.0,4.3,
+parkland.json,Chicken Schezwan Noodles,225.0,4.7,
+parkland.json,Egg Hakka Noodles,185.0,4.4,
+parkland.json,Mixed Hakka Noodles,257.0,4.7,
+parkland.json,Mixed Schezwan Noodles,257.0,,
+parkland.json,Veg Hakka Noodles,0.0,4.6,1.0
+parkland.json,Veg Schezwan Noodles,185.0,4.4,1.0
+theque.json,Crispy Chilly Babycorn,148.0,4.1,1.0
+theque.json,Chilly Chicken Dry,219.0,4.3,
+theque.json,Chilly Chicken Gravy,229.0,4.4,
+theque.json,Chicken Dum Biryani,148.0,4.0,
+theque.json,Tandoori Roti,45.0,4.2,1.0
+theque.json,Stuffed Kulcha,109.0,4.2,1.0
+theque.json,Naan Butter,75.0,4.2,1.0
+theque.json,Fried Rice-Veg,169.0,4.3,1.0
+theque.json,Fried Rice-Chicken,199.0,4.6,
+theque.json,Hakka Noodles Chicken,199.0,4.4,
+theque.json,Jeera Rice,129.0,4.5,1.0
+theque.json,Steamed Rice,109.0,5.0,1.0
+theque.json,Veg Pulao,129.0,4.2,1.0
+theque.json,Dal makhani ,219.0,,1.0
+theque.json,Veg Biryani,129.0,4.0,1.0
+theque.json,Chicken Dum Biryani,148.0,4.0,
+theque.json,Special Chicken Dum Biryani,219.0,4.0,
+theque.json,Chicken Tikka Biryani,265.0,4.2,
+theque.json,Mutton Biryani,299.0,4.2,
+theque.json,Green Salad,69.0,3.7,1.0
+theque.json,Roasted Pappad,35.0,3.5,1.0
+theque.json,Vegetable Raita,69.0,4.2,1.0
+theque.json,Yellow Dal Fry,139.0,4.8,1.0
+theque.json,Dhaba Dal,139.0,,1.0
+theque.json,Yellow Dal Tadka,139.0,4.3,1.0
+theque.json,Fried Rice-Veg,169.0,4.3,1.0
+theque.json,Fried Rice-Chicken,199.0,4.6,
+theque.json,Fried Rice-Mix,219.0,4.4,
+theque.json,Hakka Noodles- Veg,169.0,4.6,1.0
+theque.json,Hakka Noodles Chicken,199.0,4.4,
+theque.json,Hakka Noodles Mix,229.0,4.7,
+wow_china.json,Chicken Thali - Veg Fried Rice with Chicken Manchurian,319.0,4.2,
+wow_china.json,Chicken Thali - Veg Hakka Noodles with Chilli Chicken,319.0,4.6,
+wow_china.json,Chicken Thali - Veg Hakka Noodles with Hot Garlic Chicken,319.0,4.3,
+wow_china.json,The Great Khali Thali Non-Veg,399.0,4.5,
+wow_china.json,The Great Khali Thali Veg,399.0,4.0,1.0
+wow_china.json,Veg Thali - Veg Fried Rice with Exotic Veg in Hot Garlic Sauce,319.0,4.6,1.0
+wow_china.json,Veg Thali - Veg Fried Rice with Veg Manchurian,319.0,4.8,1.0
+wow_china.json,Veg Thali - Veg Hakka Noodles With Chilli Paneer,319.0,4.6,1.0
+wow_china.json,Kesar Gujiya 2 Pcs,119.0,,1.0
+wow_china.json,Kesar Gujiya 4 Pcs,219.0,,1.0
+wow_china.json,Chilli Garlic Noodles With Veg Manchurian,299.0,4.5,1.0
+wow_china.json,Chicken Fried Rice With Chilli Chicken,349.0,4.5,
+wow_china.json,Chicken Hakka Noodles With Chicken Manchurian,329.0,4.5,
+wow_china.json,Veg Hakka Noodles With Veg Manchurian,249.0,4.3,1.0
+wow_china.json,Veg Fried Rice With Chilli Paneer,289.0,4.4,1.0
+wow_china.json,Veggie Fried Rice With Chilli Paneer,299.0,4.8,1.0
+wow_china.json,Chilli Garlic Rice With Veg Manchurian,299.0,4.8,1.0
+wow_china.json,Veg Fried Rice With Chicken Manchurian,299.0,4.1,
+wow_china.json,Hot Garlic Noodles With Chilli Paneer,329.0,4.3,1.0
+wow_china.json,Veg Hakka Noodles With Chilli Chicken,299.0,4.8,
+wow_china.json,Chicken Momo & Chilli Chicken Combo for 4,918.0,,
+wow_china.json,Veg Momo & Chilli Potato Combo for 4,988.0,,1.0
+wow_china.json,Chicken Momo & Chilli Chicken Combo for 6,1336.0,,
+wow_china.json,Veg Momo & Chilli Potato Combo for 6,1386.0,,1.0
+wow_china.json,Chicken Momo & Starters Large Party Pack,1906.0,,
+wow_china.json,Chicken Momo & Chilli Chicken Iftar Meal Combo for 4,918.0,,
+wow_china.json,Chicken Momo & Chilli Chicken Iftar Meal Combo for 6,1336.0,,
+wow_china.json,Veg Momo & Chilli Potato Iftar Meal Combo for 4,988.0,,1.0
+wow_china.json,Veg Momo & Chilli Potato Iftar Meal Combo for 6,1386.0,,1.0
+wow_china.json,Chicken Momo & Starters Large Iftar Meal combo,1906.0,,
