@@ -1,8 +1,7 @@
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("../data/swiggy_dataset.csv")
-
+df = pd.read_csv("data/swiggy_dataset.csv")
 # Clean data
 df["price"] = pd.to_numeric(df["price"], errors="coerce")
 df["rating"] = pd.to_numeric(df["rating"], errors="coerce")
