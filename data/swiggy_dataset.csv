@@ -1,4 +1,227 @@
 restaurant,dish,price,rating,veg
+dominos.json,Chicken Keema & Onion with Desi Makhani Sauce,0.0,4.4,
+dominos.json,"Paneer, Onion & Capsicum with Desi Makhani Sauce",0.0,4.3,1.0
+dominos.json,Non Veg Loaded,0.0,4.6,
+dominos.json,Veg Loaded,0.0,4.8,1.0
+dominos.json,Paneer & Capsicum with Videshi Hot Sauce,0.0,4.5,1.0
+dominos.json,Capsicum & Red Paprika with Videshi Hot Sauce,0.0,4.4,1.0
+dominos.json,Pepper Barbecue Chicken,0.0,4.3,
+dominos.json,Chicken Sausage,0.0,4.3,
+dominos.json,Golden Corn,0.0,4.5,1.0
+dominos.json,Onion,0.0,4.1,1.0
+dominos.json,Classic,0.0,4.4,1.0
+dominos.json,Margherita Pizza,0.0,4.5,1.0
+dominos.json,Double Cheese Margherita Pizza,0.0,4.1,1.0
+dominos.json,Fresh Veggie Pizza,0.0,4.4,1.0
+dominos.json,Cheese n Corn Pizza,0.0,4.8,1.0
+dominos.json,Peppy Paneer Pizza,0.0,4.5,1.0
+dominos.json,Chicken Sausage Pizza,0.0,4.3,
+dominos.json,Pepper Barbecue Chicken Pizza,0.0,4.4,
+dominos.json,Spiced Double Chicken,0.0,3.9,
+dominos.json,Chicken Golden Delight Pizza,0.0,5.0,
+dominos.json,Chicken Keema & Onion with Desi Makhani Sauce,0.0,4.4,
+dominos.json,"Paneer, Onion & Capsicum with Desi Makhani Sauce",0.0,4.3,1.0
+dominos.json,Non Veg Loaded,0.0,4.6,
+dominos.json,Veg Loaded,0.0,4.8,1.0
+dominos.json,Paneer & Capsicum with Videshi Hot Sauce,0.0,4.5,1.0
+dominos.json,Capsicum & Red Paprika with Videshi Hot Sauce,0.0,4.4,1.0
+dominos.json,Pepper Barbecue Chicken,0.0,4.3,
+dominos.json,Chicken Sausage,0.0,4.3,
+dominos.json,Golden Corn,0.0,4.5,1.0
+dominos.json,Onion,0.0,4.1,1.0
+dominos.json,Classic,0.0,4.4,1.0
+dominos.json,Margherita Pizza,0.0,4.5,1.0
+dominos.json,Double Cheese Margherita Pizza,0.0,4.1,1.0
+dominos.json,Fresh Veggie Pizza,0.0,4.4,1.0
+dominos.json,Cheese n Corn Pizza,0.0,4.8,1.0
+dominos.json,Peppy Paneer Pizza,0.0,4.5,1.0
+dominos.json,Chicken Sausage Pizza,0.0,4.3,
+dominos.json,Pepper Barbecue Chicken Pizza,0.0,4.4,
+dominos.json,Spiced Double Chicken,0.0,3.9,
+dominos.json,Chicken Golden Delight Pizza,0.0,5.0,
+dominos.json,Chicken Pepperoni Pizza,0.0,5.0,
+dominos.json,Peppy Paneer Cheese Burst,0.0,4.7,1.0
+dominos.json,Farmhouse Cheese Burst,0.0,4.5,1.0
+dominos.json,Veggie Paradise Cheese Burst,0.0,5.0,1.0
+dominos.json,Margherita Cheese Burst,0.0,4.4,1.0
+dominos.json,Spiced Double Chicken Pizza,0.0,4.8,
+dominos.json,Mexican Green Wave Cheese Burst,0.0,5.0,1.0
+dominos.json,Pepper Barbecue Chicken Cheese Burst,0.0,4.6,
+dominos.json,Indi Tandoori Paneer Cheese Burst,0.0,4.0,1.0
+dominos.json,Indi Chicken Tikka Cheese Burst,0.0,5.0,
+dominos.json,Double Cheese Margherita Cheese Burst,0.0,4.0,1.0
+dominos.json,Cheese n Corn Cheese Burst,0.0,2.8,1.0
+dominos.json,Chicken Golden Delight Cheese Burst,0.0,4.0,
+dominos.json,Chicken Fiesta Cheese Burst,0.0,4.9,
+dominos.json,Fresh Veggie Cheese Burst,0.0,,1.0
+dominos.json,Chicken Pepperoni Cheese Burst,0.0,5.0,
+dominos.json,Achari Do Pyaza Cheese Burst,0.0,,1.0
+dominos.json,The 5 Chicken Feast Cheese Burst,0.0,4.7,
+dominos.json,Chicken Sausage Cheese Burst,0.0,3.0,
+dominos.json,Big Big 6in1 Pizza - Veg,0.0,4.1,1.0
+dominos.json,Big Big 6in1 Cheeseburst - Veg,0.0,,1.0
+dominos.json,Big Big 6in1 Lavaburst - Veg,0.0,,1.0
+dominos.json,Big Big 6in1 Creamy Makhani Cheeseburst - Veg,0.0,,1.0
+dominos.json,Big Big 6in1 Korean Sweet Chilli Cheeseburst - Veg,0.0,,1.0
+dominos.json,Big Big 6in1 Pizza - Non Veg,0.0,4.9,
+dominos.json,Big Big 6in1 Cheeseburst - Non Veg,0.0,,
+dominos.json,Big Big 6in1 Lavaburst - Non Veg,0.0,,
+dominos.json,Big Big 6in1 Creamy Makhani Cheeseburst - Non Veg,0.0,,
+dominos.json,Big Big 6in1 Korean Sweet Chilli Cheeseburst - Non Veg,0.0,,
+dominos.json,Big Big 6in1 Pizza – Cheese Carnival,0.0,,1.0
+dominos.json,Veggie Paradise Pizza,0.0,4.4,1.0
+dominos.json,Farmhouse Pizza,0.0,4.4,1.0
+dominos.json,Mexican Green Wave Pizza,0.0,5.0,1.0
+dominos.json,Veg Extravaganza Pizza,0.0,4.8,1.0
+dominos.json,Cheese Overload,0.0,5.0,1.0
+dominos.json,Chicken Fiesta Pizza,0.0,4.2,
+dominos.json,Chicken Dominator Pizza,0.0,4.5,
+dominos.json,Non Veg Supreme Pizza,0.0,4.2,
+dominos.json,The 5 Chicken Feast Pizza,0.0,4.8,
+dominos.json,Taco Mexicana Non Veg,185.0,4.8,
+dominos.json,Tandoori Loaded Chicken Taco,399.0,4.2,
+dominos.json,Tandoori Loaded Veg Taco,339.0,4.2,1.0
+dominos.json,Taco Mexicana Veg (Single),85.0,4.7,1.0
+dominos.json,Taco Mexicana Veg,149.0,4.6,1.0
+dominos.json,Tandoori Loaded Veg Taco (Single),179.0,4.2,1.0
+dominos.json,Veg Parcel,49.0,4.8,1.0
+dominos.json,Tandoori Loaded Chicken Parcel,139.0,4.6,
+dominos.json,Tandoori Loaded Paneer Parcel,139.0,4.2,1.0
+dominos.json,Chicken Parcel,59.0,4.4,
+dominos.json,Burger Pizza - Classic Veg,129.0,4.7,1.0
+dominos.json,Saucy Boneless Chicken - Cream & Onion,189.0,,
+dominos.json,Saucy Boneless Chicken - Peri Peri,189.0,,
+dominos.json,Juicy Boneless Chicken,159.0,4.6,
+dominos.json,Spicy Chicken Bombs,119.0,4.5,
+dominos.json,Chicken Platter for 4-Cream & Onion Dip,759.0,,
+dominos.json,Chicken Platter for 2-Cream & Onion Dip,499.0,4.0,
+dominos.json,Saucy Chicken Pops - Cream & Onion,149.0,4.8,
+dominos.json,Saucy Chicken Pops - Peri Peri,149.0,,
+dominos.json,Grilled Wings Signature Garlic,179.0,4.2,
+dominos.json,Grilled Wings Lemon Pepper,179.0,4.2,
+dominos.json,Grilled wings Southern Spice,179.0,4.1,
+dominos.json,Mini Garlic Cheesiken Rice,119.0,3.8,
+dominos.json,Mini Tangy Tomato Cheesiken Rice,119.0,5.0,
+dominos.json,Mini Hot & Fiery Cheesiken Rice,119.0,3.6,
+dominos.json,Spicy Chicken Pops,119.0,4.3,
+dominos.json,Garlic Cheesiken,169.0,4.0,
+dominos.json,Hot & Fiery Cheesiken,169.0,4.0,
+dominos.json,Lemon Pepper Grilled Wings 24 Pcs,499.0,,
+dominos.json,Grilled Wings Lemon Pepper 12 Pcs,299.0,,
+dominos.json,Signature Garlice Grilled Wings 12 Pcs,299.0,,
+dominos.json,Grilled wings Southern Spice 12 Pcs,299.0,,
+dominos.json,Signature Garlice Grilled Wings 24 Pcs,499.0,,
+dominos.json,Southern Spice Grilled Wings 24 Pcs,499.0,,
+dominos.json,Chicken Platter for 4-Peri Peri Dip,759.0,,
+dominos.json,Chicken Platter for 2-Peri Peri Dip,499.0,,
+dominos.json,Korean Chicken Burst Pizza (Reg),0.0,4.4,
+dominos.json,Garlic Chicken Burst Pizza (Med),0.0,,
+dominos.json,Southern Spice Chicken Burst Pizza (Med),0.0,,
+dominos.json,Garlic Chicken Burst Pizza (Reg),0.0,5.0,
+dominos.json,Southern Spice Chicken Burst Pizza (Reg),0.0,,
+dominos.json,Korean Chicken Burst Pizza (Med),0.0,,
+dominos.json,Tandoori Chicken Burst Pizza (Reg),0.0,4.2,
+dominos.json,Tandoori Chicken Burst Pizza (Med),0.0,4.5,
+dominos.json,Cheese Volcano Peppy Paneer,0.0,4.4,1.0
+dominos.json,Cheese Volcano Farmhouse,0.0,4.5,1.0
+dominos.json,Cheese Volcano Veg Paradise,0.0,4.6,1.0
+dominos.json,Corn & Cheese Volcano,0.0,,1.0
+dominos.json,Cheese Volcano BBQ Chicken,0.0,5.0,
+dominos.json,Cheese Volcano Chicken Delight,0.0,4.8,
+dominos.json,Cheese Volcano Double Chicken,0.0,4.4,
+dominos.json,Cheese Volcano Blazing Chicken,0.0,4.9,
+dominos.json,Chicken Pepperoni Stuffed Garlic Bread,175.0,4.2,
+dominos.json,Cheesy Dip,27.57,4.2,1.0
+dominos.json,Fiery Pepperoni Garlic Bread,189.0,3.9,
+dominos.json,Korean Paneer Tikka Garlic Bread,189.0,4.2,1.0
+dominos.json,Makhani Corn & Jalapeno Garlic Bread,189.0,4.2,1.0
+dominos.json,Makhani Paneer Tikka Garlic Bread,189.0,2.6,1.0
+dominos.json,Garlic Breadsticks,129.0,4.4,1.0
+dominos.json,Paneer Tikka Stuffed Garlic Bread,175.0,3.5,1.0
+dominos.json,Fiery Paneer Tikka Garlic Bread,189.0,3.8,1.0
+dominos.json,Classic Stuffed Garlic Bread,165.0,4.6,1.0
+dominos.json,Garlic Breadsticks + Beverage,175.0,5.0,1.0
+dominos.json,Fiery Corn & Jalapeno Garlic Bread,189.0,,1.0
+dominos.json,Makhani Pepperoni Garlic Bread,189.0,4.8,
+dominos.json,Garlic Breadsticks + Cheesy Dip,152.57,4.4,1.0
+dominos.json,Korean Corn & Jalapeno Garlic Bread,189.0,4.1,1.0
+dominos.json,Korean Pepperoni Garlic Bread,189.0,4.0,
+dominos.json,Cream and Onion Dip,37.14,5.0,1.0
+dominos.json,Peri Peri Dip,37.14,5.0,1.0
+dominos.json,Special Party for 4 (Veg) @Rs. 180 off,1059.28,,1.0
+dominos.json,Pizza Party for 4 (Veg) @Rs. 180 Off,1019.0,,1.0
+dominos.json,Party for 4 (Veg) @Rs. 130 off,885.0,,1.0
+dominos.json,Extravaganza Party for 2 (Veg) @Rs. 110 off,729.14,,1.0
+dominos.json,Dominator Party for 2 (Non-Veg) @Rs. 140 off,819.14,4.7,
+dominos.json,Special Party for 2 (Veg) @Rs. 105 off,649.44,,1.0
+dominos.json,Special Party for 2 (Non-Veg) @Rs. 115 off,729.14,,
+dominos.json,Party for 2 (Non-Veg) @Rs. 85 off,599.14,5.0,
+dominos.json,Party for 2 (Veg) @Rs. 75 off,509.14,4.4,1.0
+dominos.json,Dominator Party for 4 (Non-Veg) @Rs. 300 off,1219.28,4.6,
+dominos.json,Big Big Celebration Combo - Veg,999.0,,1.0
+dominos.json,Big Big Celebration Combo - Non Veg,1199.0,,
+dominos.json,Big Big Celebration Combo – Cheese Fest,1199.0,,1.0
+dominos.json,Match Day Veg Combo @Rs. 110 off,719.14,,1.0
+dominos.json,Meal for 4: Veg Loaded Pizza,973.0,,1.0
+dominos.json,Meal for 2: Pepper BBQ Chicken & Chicken Dominator,697.14,5.0,
+dominos.json,Meal for 2: Pepper BBQ Chicken & Spiced Double Chicken,657.14,5.0,
+dominos.json,Meal for 4: Veg Extravaganza & Indi Tandoori Paneer,1174.8,,1.0
+dominos.json,Meal for 4: Margherita & Peppy Paneer,840.8,,1.0
+dominos.json,Meal for 2: Farmhouse & Veg Extravaganza,657.14,,1.0
+dominos.json,Meal for 4: Veg Cheesy Pizza,823.0,,1.0
+dominos.json,Meal for 4: Non Veg Pizza Mania Value,499.0,4.6,
+dominos.json,Meal for 2: Veg Paradise & Farmhouse,627.14,,1.0
+dominos.json,Achari Do Pyaza Pizza,0.0,4.7,1.0
+dominos.json,Corn n Cheese Paratha Pizza,0.0,4.9,1.0
+dominos.json,Indi Tandoori Paneer Pizza,0.0,4.8,1.0
+dominos.json,Chicken Keema Paratha Pizza,0.0,3.9,
+dominos.json,Indi Chicken Tikka Pizza,0.0,5.0,
+dominos.json,Red Velvet Lava Cake,145.0,4.7,1.0
+dominos.json,Butterscotch Mousse Cake,103.81,4.7,1.0
+dominos.json,Choco Mousse,79.0,,1.0
+dominos.json,Blueberry Mousse,79.0,,1.0
+dominos.json,Butterscotch Mousse,79.0,,1.0
+dominos.json,Choco Lava Cake Gift Hamper,357.0,4.0,1.0
+dominos.json,Choco Lava Cake + Beverage,169.0,5.0,1.0
+dominos.json,Choco Lava Cake,119.0,4.8,1.0
+dominos.json,Coca Cola 475ml,66.66,4.4,1.0
+dominos.json,Sprite 475ml,66.66,4.8,1.0
+dominos.json,Fanta 475ml,66.66,4.0,1.0
+dominos.json,Coca Cola Zero Sugar 330ml,66.66,5.0,1.0
+dominos.json,Packaged Water 500ml,27.57,,1.0
+dominos.json,Margherita Pizza Regular,109.0,4.6,1.0
+dominos.json,Classic Pizza Mania,49.0,3.8,1.0
+dominos.json,Loaded Heart Farmhouse,0.0,,1.0
+dominos.json,Loaded Heart Chicken Dominator,0.0,,
+dominos.json,Loaded Heart Veggie Paradise,0.0,,1.0
+dominos.json,Loaded Heart Peppy Paneer,0.0,,1.0
+dominos.json,Loaded Heart Chicken Pepperoni,0.0,,
+dominos.json,Loaded Heart Pepper BBQ Chicken,0.0,,
+dominos.json,Paneer & Capsicum Pizza Mania,0.0,3.8,1.0
+dominos.json,Capsicum & Red Paprika Pizza Mania,0.0,4.8,1.0
+dominos.json,Golden Corn Pizza Mania,0.0,4.2,1.0
+dominos.json,Chicken Sausage Pizza Mania,0.0,4.2,
+dominos.json,Pepper Barbecue Chicken Pizza Mania,0.0,4.3,
+dominos.json,Classic Fresh Pan,0.0,4.0,1.0
+dominos.json,Onion Fresh Pan,0.0,,1.0
+dominos.json,Cheese Lava – Farmhouse,0.0,,1.0
+dominos.json,Cheese Lava -  Spiced Double Chicken,0.0,,
+dominos.json,Cheese Lava - Pepper BBQ Chicken,0.0,,
+dominos.json,Cheese Lava - Golden Corn,0.0,,1.0
+dominos.json,Cheese Lava - Chicken Golden Delight,0.0,,
+dominos.json,Cheese Lava - Peppy Paneer,0.0,5.0,1.0
+dominos.json,Cheese Lava - Blazing Chicken & Paprika,0.0,,
+dominos.json,Cheese Lava - Veg Paradise,0.0,,1.0
+dominos.json,5 Course: Triple Chicken Garlic Rice Meal with Chicken Pops,301.05,4.3,
+dominos.json,5 Course: Triple Chicken Hot & Fiery Rice Meal with Chicken Wings,331.05,3.5,
+dominos.json,5 Course: Triple Chicken Garlic Rice Meal with Chicken Wings,331.05,,
+dominos.json,5 Course: Triple Chicken Hot & Fiery Rice Meal with Chicken Pops,301.05,4.6,
+dominos.json,5 Course Meal: Classic Pizza,191.05,,1.0
+dominos.json,5 Course Meal: Pepper BBQ Chicken Pizza,267.05,4.6,
+dominos.json,5 Course Meal: Chicken Sausage Pizza,251.05,4.0,
+dominos.json,5 Course Meal: Onion Pizza,217.05,4.8,1.0
+dominos.json,5 Course Meal: Veg Loaded Pizza,331.0,,1.0
+dominos.json,5 Course Meal: Non Veg Loaded Pizza,361.0,4.5,
 fortunes.json,Smoky Chicken Puff,80.0,4.7,
 fortunes.json,Biryani Gosht ( 1kg ) ,1429.0,5.0,
 fortunes.json,Kolkata Style Murgh Biryani ( 1kg ),1319.0,3.5,

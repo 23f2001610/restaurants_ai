@@ -2,7 +2,7 @@ import json
 import os
 import pandas as pd
 
-menu_folder = "../menus"
+menu_folder = "menus"
 
 rows = []
 
@@ -50,6 +50,6 @@ df = pd.DataFrame(rows)
 
 print(df.head())
 
-df.to_csv("../data/swiggy_dataset.csv", index=False)
+df.to_csv("data/swiggy_dataset.csv", index=False)
 
 print("Dataset created!")
