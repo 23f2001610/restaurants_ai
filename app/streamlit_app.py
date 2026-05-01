@@ -1,19 +1,19 @@
 import streamlit as st
 import pandas as pd
 
-# Load dataset
+
 df = pd.read_csv("data/swiggy_dataset.csv")
 
-# Clean data properly
+
 df["price"] = pd.to_numeric(df["price"], errors="coerce")
 df["rating"] = pd.to_numeric(df["rating"], errors="coerce")
 
 df = df.dropna(subset=["price", "rating"])
 
-# Deal score
+
 df["deal_score"] = df["rating"] / df["price"]
 
-st.title("🍔 AI Food Deal Finder")
+st.title("AI Food Deal Finder")
 st.write("Search the best food deals from your restaurant dataset")
 
 dish_query = st.text_input("Search food")
@@ -33,7 +33,7 @@ if st.button("Find Deals"):
     if not results.empty:
         best = results.iloc[0]
 
-        best_restaurant = best["restaurant"].replace(".json", "")
+        best_restaurant = best["restaurant"].replace(".json", " ")
 
         st.success(
             f"🔥 Best Deal: {best['dish']} from {best_restaurant} "

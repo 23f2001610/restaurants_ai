@@ -35,7 +35,7 @@ for file in os.listdir(menu_folder):
                                 info = item["card"]["info"]
 
                                 rows.append({
-                                    "restaurant": file,
+                                    "restaurant": file.replace(".json", " "),
                                     "dish": info.get("name"),
                                     "price": info.get("price",0)/100,
                                     "rating": info.get("ratings",{}).get("aggregatedRating",{}).get("rating"),
